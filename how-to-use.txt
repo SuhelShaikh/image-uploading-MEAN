@@ -5,6 +5,8 @@ Run "npm install" inside this project folder to install all dependencies.
 
 Make sure you use the latest version of the CLI
 
+-------we require two terminal-----
+
 First we need to run server "npm run start:server"
 
 after that run "ng serve" to see the app in action (try "npm start" in case "ng serve" fails).
